@@ -1,6 +1,10 @@
 # STEEL REVENANTS
 ### A Helldivers 2 Cosmetic Mod
 
+[![Nexus Mods](https://img.shields.io/badge/Nexus_Mods-Download-orange?logo=nexusmods)](https://www.nexusmods.com/helldivers2/mods/17737)
+
+**Original mod page:** [Steel Revenants on Nexus Mods](https://www.nexusmods.com/helldivers2/mods/17737)
+
 ## Legal Disclaimer
 
 Steel Revenants is an unofficial, non-commercial fan-made modification for *Helldivers 2*. It is not affiliated with, endorsed by, or sponsored by Arrowhead Game Studios or Sony Interactive Entertainment.
