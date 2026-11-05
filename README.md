@@ -21,6 +21,8 @@ A cosmetic mod that replaces selected armor sets with robotic prosthetic-based d
 | RE-2310 / RS-67 | SR-Ghost |
 | RE-824 / KDM-500 | SR-Oni |
 
+![sr_image](https://github.com/nez-dot/Steel-Revenants/blob/e0d09f5556e19e1b5dc5b4ebb4f918fccf4cc507/Steel%20Revenants.png)
+
 ## Game Lore
 
 They were taken from the battlefield, broken by the most devastating injuries, with nothing left but their unwavering will to fight for sweet Liberty.
