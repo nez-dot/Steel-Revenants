@@ -1,8 +1,6 @@
 # STEEL REVENANTS
 ### A Helldivers 2 Cosmetic Mod
 
-[![Nexus Mods](https://img.shields.io/badge/Nexus_Mods-Download-orange?logo=nexusmods)](https://www.nexusmods.com/helldivers2/mods/17737)
-
 **Original mod page:** [Steel Revenants on Nexus Mods](https://www.nexusmods.com/helldivers2/mods/17737)
 
 ## Legal Disclaimer
