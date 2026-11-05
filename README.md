@@ -44,7 +44,7 @@ Special thanks to:
 - **FileDiver** – For game asset exploration.
 - **GIMP** – For texture editing.
 - **Blender** – For 3D modeling and asset creation.
-- **ArcanePoro** – For the modding tutorial and guidance.
+- **ArcanePoro** – For the modding tutorial.
 
 ---
 
