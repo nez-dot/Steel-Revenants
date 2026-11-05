@@ -7,7 +7,7 @@ Steel Revenants is an unofficial, non-commercial fan-made modification for *Hell
 
 All original game assets, including models, textures, trademarks, and other intellectual property, remain the property of their respective copyright holders.
 
-This project includes original modifications and contributions created by **Nez**. See [LICENSE](LICENSE) for the terms governing the use of these contributions.
+This project includes original modifications and contributions created by **Nez**. See [LICENSE](https://github.com/nez-dot/Steel-Revenants/blob/abd3e8a58ca1d56d56e78376bf83302904aeaa4a/LICENSE.md) for the terms governing the use of these contributions.
 
 ## About the Mod
 
