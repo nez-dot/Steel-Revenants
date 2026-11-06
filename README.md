@@ -52,7 +52,6 @@ Special thanks to:
 
 **Steel Revenants – Created by Nez.**
 
-If you enjoy my work and would like to support
-my work, donations are completely optional.
+If you enjoy my work and would like to support, donations are completely optional.
 
 [![Donate with PayPal](https://img.shields.io/badge/Donate-PayPal-blue?logo=paypal)](https://www.paypal.com/donate/?hosted_button_id=MJBPMYDKGNQJA)
