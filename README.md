@@ -49,7 +49,5 @@ Special thanks to:
 - **ArcanePoro** – For the modding tutorial.
 
 ---
-
+![sr_image2](https://github.com/nez-dot/Steel-Revenants/blob/044c57c856ccfd7658897fdf6bbfb61ba124f869/grayline2.png)
 **Steel Revenants – Created by Nez.**
-
-If you enjoy my work and would like to support, donations are completely optional.
